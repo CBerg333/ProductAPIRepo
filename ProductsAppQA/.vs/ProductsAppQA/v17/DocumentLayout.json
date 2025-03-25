@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\come2\\source\\repos\\ProductsAppQA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F55294A4-4AE0-4D18-AB91-9B42060DFAA4}|ProductsAppQA.Tests\\ProductsAppQA.Tests.csproj|c:\\users\\come2\\source\\repos\\productsappqa\\productsappqa.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55294A4-4AE0-4D18-AB91-9B42060DFAA4}|ProductsAppQA.Tests\\ProductsAppQA.Tests.csproj|solutionrelative:productsappqa.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8512016-22D9-4B51-9268-CD85E6B44788}|ProductsAppQA\\ProductsAppQA.csproj|C:\\Users\\come2\\source\\repos\\ProductsAppQA\\productsappqa\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8512016-22D9-4B51-9268-CD85E6B44788}|ProductsAppQA\\ProductsAppQA.csproj|solutionrelative:productsappqa\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8512016-22D9-4B51-9268-CD85E6B44788}|ProductsAppQA\\ProductsAppQA.csproj|C:\\Users\\come2\\source\\repos\\ProductsAppQA\\productsappqa\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8512016-22D9-4B51-9268-CD85E6B44788}|ProductsAppQA\\ProductsAppQA.csproj|solutionrelative:productsappqa\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestSimpleProductController.cs",
+              "DocumentMoniker": "C:\\Users\\come2\\source\\repos\\ProductsAppQA\\ProductsAppQA.Tests\\TestSimpleProductController.cs",
+              "RelativeDocumentMoniker": "ProductsAppQA.Tests\\TestSimpleProductController.cs",
+              "ToolTip": "C:\\Users\\come2\\source\\repos\\ProductsAppQA\\ProductsAppQA.Tests\\TestSimpleProductController.cs",
+              "RelativeToolTip": "ProductsAppQA.Tests\\TestSimpleProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:14:40.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\come2\\source\\repos\\ProductsAppQA\\ProductsAppQA\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsAppQA\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\come2\\source\\repos\\ProductsAppQA\\ProductsAppQA\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsAppQA\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:28:59.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\come2\\source\\repos\\ProductsAppQA\\ProductsAppQA\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductsAppQA\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\come2\\source\\repos\\ProductsAppQA\\ProductsAppQA\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductsAppQA\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:12:51.004Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
